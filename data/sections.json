@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6070db2f2590b3213877e326"
+  },
+  "sectionId": "605dd321dca5e31990c3b8af",
+  "titre": "A la découverte des nouvelles sensations",
+  "paragraph": "Ici vous vous sentirez enfant,\nretenter l'expérience dans les arbres.\nrenouer avec votre âme d'enfant.\n\nLoin de tout,\nseul(e) ou à deux, \non respire de l'air pur.\nil y en a pour tous.\n\nLive for LIFE !!!!!",
+  "reverse": false,
+  "picture": "./uploads/sections/605dd321dca5e31990c3b8af1618008879859.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T22:54:39.865Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T22:54:39.865Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070dd202590b3213877e327"
+  },
+  "sectionId": "605dd321dca5e31990c3b8af",
+  "titre": "Votre instant!",
+  "paragraph": "le silence, \nle calme, \nle sifflement d'oiseaux,\nun retour au source.\n\n\nVoyager.\nIci tout va bien.\n\n\nTrouvez votre bonheur,\nvotre petit douillet .\n\nChacun trouve son compte.",
+  "reverse": true,
+  "picture": "./uploads/sections/605dd321dca5e31990c3b8af1618009376162.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T23:02:56.167Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:02:56.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070de5d2590b3213877e328"
+  },
+  "sectionId": "605dd321dca5e31990c3b8af",
+  "titre": "Trouve ta tente",
+  "paragraph": "Entre potes, en couple, en famille \nvous trouverez votre bonheur.\n\nHey, Hey, Hey, Hey !!!!!!!!\n",
+  "reverse": false,
+  "picture": "./uploads/sections/605dd321dca5e31990c3b8af1618009693345.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T23:08:13.347Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:14:38.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070e1232590b3213877e329"
+  },
+  "sectionId": "605dd321dca5e31990c3b8af",
+  "titre": "Nos applications web et mobile",
+  "paragraph": "Pour vous faciliter la vie, nous avons mis en place une application web et mobile.\nElle est instable sur Android et suer IOS\n\n\n",
+  "reverse": false,
+  "picture": "./uploads/sections/605dd321dca5e31990c3b8af1618010403461.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T23:20:03.465Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:32:17.496Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070e2bb2590b3213877e32a"
+  },
+  "sectionId": "605dd321dca5e31990c3b8af",
+  "titre": "ATYPIKHOUSE \"Location des habitats alternatifs\"",
+  "paragraph": "La Société « AtypikHouse » est une nouvelle SARL au capital de 10 000€ composée de 3 associés partageant les mêmes passions pour les voyages, l‘habitat alternatif et la vie en harmonie avec la nature.En réunissant leurs moyens techniques et financiers, leurs compétences et leur amitié, ils ont créé leur société sur: la location d’habitations insolites, comme les cabanes dans les arbres, les yourtes ou les cabanes flottantes...La société « AtypikHouse » est basée dans la localité de Pierrefonds, dans le département de l’Oise et cherche à mettre en place un service de location d’habitat alternatif en France et en Europe.",
+  "reverse": true,
+  "picture": "./uploads/sections/605dd321dca5e31990c3b8af1618010811352.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T23:26:51.355Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:26:51.355Z"
+  },
+  "__v": 0
+}]

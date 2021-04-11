@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "605dd321dca5e31990c3b8af"
+  },
+  "picture": "./uploads/profil/random-user.png",
+  "likes": [],
+  "pseudo": "sami",
+  "email": "sami@gmail.com",
+  "password": "$2b$10$ZswFr0WcXEWG1QzdoXB4EOvnxMiBN4EC5nvHAbvxWGqpJgzF5Doky",
+  "role": "administrateur",
+  "createdAt": {
+    "$date": "2021-03-26T12:27:13.409Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-26T12:27:13.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070e59f2590b3213877e32d"
+  },
+  "picture": "./uploads/profil/random-user.png",
+  "likes": [],
+  "pseudo": "Merith",
+  "email": "merithndolo@gmail.com",
+  "tel": 755780388,
+  "password": "$2b$10$LurF8zNjBwc/hHNwm/6BxuTD/7z3/6.rNX2EG.w.Rzhi.Il/8Jn4C",
+  "role": "propriétaire",
+  "createdAt": {
+    "$date": "2021-04-09T23:39:11.608Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:39:11.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070f27f529a8a33e096b9f9"
+  },
+  "picture": "./uploads/profil/Mabi.jpg",
+  "likes": [
+    "6070f0dd529a8a33e096b9f8",
+    "6070f095529a8a33e096b9f7",
+    "6070eead529a8a33e096b9f3"
+  ],
+  "pseudo": "Mabi",
+  "email": "mani.djei@gmail.com",
+  "tel": 652584596,
+  "password": "$2b$10$Gx1kEyEiEeLxQhmwt73CYuMyW3YeVQUP33g8TajHkZNp10m.BGDPa",
+  "role": "client",
+  "createdAt": {
+    "$date": "2021-04-10T00:34:07.961Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:40:34.049Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070f2c7529a8a33e096b9fa"
+  },
+  "picture": "./uploads/profil/random-user.png",
+  "likes": [
+    "6070eead529a8a33e096b9f3"
+  ],
+  "pseudo": "Maria",
+  "email": "maria@gmail.com",
+  "tel": 112547445,
+  "password": "$2b$10$zmI2on/o/aJIYPbAk7soT./GQS1Y6dTVirtt7LsMi7xFMG9lT5Ah6",
+  "role": "client",
+  "createdAt": {
+    "$date": "2021-04-10T00:35:19.741Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:37:11.099Z"
+  },
+  "__v": 0
+}]

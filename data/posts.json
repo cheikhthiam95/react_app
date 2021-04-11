@@ -1,0 +1,295 @@
+[{
+  "_id": {
+    "$oid": "6070e8da2590b3213877e32e"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618012378124.jpg",
+    "./uploads/autres/6070e8da2590b3213877e32e1618012493646.jpg",
+    "./uploads/autres/6070e8da2590b3213877e32e1618012902783.jpg",
+    "./uploads/autres/6070e8da2590b3213877e32e1618012947761.jpg",
+    "./uploads/autres/6070e8da2590b3213877e32e1618013009730.jpg"
+  ],
+  "likers": [],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "Nous sommes ....",
+  "titre": "Yourte pour votre séjour en famille",
+  "prix": 250,
+  "superficie": 20,
+  "departement": "ARDECHE",
+  "lng": null,
+  "lat": null,
+  "type": "yourte",
+  "status": "validation",
+  "clientId": null,
+  "nbr_personne": 5,
+  "video": "",
+  "date_open": {
+    "$date": "2021-03-01T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-05-23T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-09T23:52:58.137Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:03:33.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070ec3e529a8a33e096b9f1"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618013246509.jpg",
+    "./uploads/autres/6070ec3e529a8a33e096b9f11618013270156.jpg",
+    "./uploads/autres/6070ec3e529a8a33e096b9f11618013313027.jpg",
+    "./uploads/autres/6070ec3e529a8a33e096b9f11618013356709.jpg",
+    "./uploads/autres/6070ec3e529a8a33e096b9f11618013486473.jpg"
+  ],
+  "likers": [],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "le plus",
+  "titre": "Le petit nid des amoureux",
+  "prix": 200,
+  "superficie": 25,
+  "departement": "SEINE-ET-MARNE",
+  "lng": null,
+  "lat": null,
+  "type": "cabane flottante",
+  "status": "validation",
+  "clientId": null,
+  "nbr_personne": 2,
+  "video": "",
+  "date_open": {
+    "$date": "2021-06-01T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-09-01T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:07:26.521Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:11:30.313Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070eead529a8a33e096b9f3"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618013869439.jpg",
+    "./uploads/autres/6070eead529a8a33e096b9f31618013888829.jpg",
+    "./uploads/autres/6070eead529a8a33e096b9f31618013905121.jpg",
+    "./uploads/autres/6070eead529a8a33e096b9f31618013919086.jpg",
+    "./uploads/autres/6070eead529a8a33e096b9f31618013936179.jpg"
+  ],
+  "likers": [
+    "6070f27f529a8a33e096b9f9",
+    "6070f2c7529a8a33e096b9fa"
+  ],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "une vidéo rapide de présentation que j'ai fait après notre séjour en Dordogne, dans une cabane perchée.",
+  "titre": "Vidéo de présentation notre cabane dans les arbres",
+  "prix": 100,
+  "superficie": 20,
+  "departement": "VIENNE",
+  "lng": null,
+  "lat": null,
+  "type": "cabane dans les arbres",
+  "status": "non_reservé",
+  "clientId": null,
+  "nbr_personne": 3,
+  "video": "https://www.youtube.com/embed/C5qdIcsdWxA",
+  "date_open": {
+    "$date": "2021-04-01T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-07-01T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:17:49.444Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:37:11.068Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070ef93529a8a33e096b9f5"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618014099507.jpg",
+    "./uploads/autres/6070ef93529a8a33e096b9f51618014690019.jpg",
+    "./uploads/autres/6070ef93529a8a33e096b9f51618014709250.jpg",
+    "./uploads/autres/6070ef93529a8a33e096b9f51618014718896.jpg",
+    "./uploads/autres/6070ef93529a8a33e096b9f51618014730002.jpg"
+  ],
+  "likers": [],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "ok",
+  "titre": "bsrc14",
+  "prix": 75,
+  "superficie": 10,
+  "departement": "AIN",
+  "lng": null,
+  "lat": null,
+  "type": "yourte",
+  "status": "non_reservé",
+  "clientId": null,
+  "nbr_personne": 2,
+  "video": "",
+  "date_open": {
+    "$date": "2021-07-16T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:21:39.511Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:32:45.805Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070efd0529a8a33e096b9f6"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618014160660.jpg",
+    "./uploads/autres/6070efd0529a8a33e096b9f61618014640295.jpg",
+    "./uploads/autres/6070efd0529a8a33e096b9f61618014654932.jpg",
+    "./uploads/autres/6070efd0529a8a33e096b9f61618014664995.jpg",
+    "./uploads/autres/6070efd0529a8a33e096b9f61618014679376.jpg"
+  ],
+  "likers": [],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "Toute",
+  "titre": "bgt75",
+  "prix": 250,
+  "superficie": 20,
+  "departement": "ALPES-DE-HAUTE-PROVENCE",
+  "lng": null,
+  "lat": null,
+  "type": "cabane flottante",
+  "status": "non_reservé",
+  "clientId": null,
+  "nbr_personne": 5,
+  "video": "",
+  "date_open": {
+    "$date": "2021-06-12T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-04-30T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:22:40.664Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:32:44.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070f095529a8a33e096b9f7"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618014357562.jpg",
+    "./uploads/autres/6070f095529a8a33e096b9f71618014553436.jpg",
+    "./uploads/autres/6070f095529a8a33e096b9f71618014574771.jpg",
+    "./uploads/autres/6070f095529a8a33e096b9f71618014602017.jpg",
+    "./uploads/autres/6070f095529a8a33e096b9f71618014622260.jpg"
+  ],
+  "likers": [
+    "6070f27f529a8a33e096b9f9"
+  ],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "Qui n’a jamais songé à ce qu’il ferait seul, sur une île déserte ? Vous vous voyez déjà construire votre cabane faite de branchages et de feuilles à la Robinson Crusoé, n’est-ce pas ? Et bien on vous rassure, vous n’aurez pas besoin d’en arriver là pour vivre l’expérience unique d’une nuit sur l’eau !",
+  "titre": "Cabane de plalacedis",
+  "prix": 500,
+  "superficie": 50,
+  "departement": "AUDE",
+  "lng": null,
+  "lat": null,
+  "type": "cabane flottante",
+  "status": "non_reservé",
+  "clientId": null,
+  "nbr_personne": 1,
+  "video": "",
+  "date_open": {
+    "$date": "2021-04-01T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-04-30T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:25:57.566Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:36:13.761Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070f0dd529a8a33e096b9f8"
+  },
+  "picture": [
+    "./uploads/posts/6070e59f2590b3213877e32d1618014429987.jpg",
+    "./uploads/autres/6070f0dd529a8a33e096b9f81618014449193.jpg",
+    "./uploads/autres/6070f0dd529a8a33e096b9f81618014464087.jpg",
+    "./uploads/autres/6070f0dd529a8a33e096b9f81618014476686.jpg",
+    "./uploads/autres/6070f0dd529a8a33e096b9f81618014497161.jpg"
+  ],
+  "likers": [
+    "6070f27f529a8a33e096b9f9"
+  ],
+  "posterId": "6070e59f2590b3213877e32d",
+  "message": "tr",
+  "titre": "Cabane de miami",
+  "prix": 100,
+  "superficie": 30,
+  "departement": "ARIEGE",
+  "lng": null,
+  "lat": null,
+  "type": "yourte",
+  "status": "non_reservé",
+  "clientId": null,
+  "nbr_personne": 2,
+  "video": "",
+  "date_open": {
+    "$date": "2021-04-23T00:00:00Z"
+  },
+  "date_close": {
+    "$date": "2021-06-19T00:00:00Z"
+  },
+  "comments": [],
+  "reservations": [],
+  "prises": [],
+  "createdAt": {
+    "$date": "2021-04-10T00:27:09.990Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-10T00:36:12.097Z"
+  },
+  "__v": 0
+}]

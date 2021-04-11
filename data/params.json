@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6070d4a22590b3213877e31f"
+  },
+  "paramId": "605dd321dca5e31990c3b8af",
+  "titre": "Yourte dans les yvelines",
+  "prix": 100,
+  "temps": "Nuit",
+  "picture": "./uploads/params/605dd321dca5e31990c3b8af1618007202127.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T22:26:42.139Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T22:26:42.139Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070d4f72590b3213877e320"
+  },
+  "paramId": "605dd321dca5e31990c3b8af",
+  "titre": "Une cabane flottante pour votre séjour en amoureux",
+  "prix": 150,
+  "temps": "Nuit",
+  "picture": "./uploads/params/605dd321dca5e31990c3b8af1618007287569.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T22:28:07.572Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T22:28:07.572Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070d5652590b3213877e321"
+  },
+  "paramId": "605dd321dca5e31990c3b8af",
+  "titre": "Cabane atypique dans les arbres ",
+  "prix": 120,
+  "temps": "Nuit",
+  "picture": "./uploads/params/605dd321dca5e31990c3b8af1618007397203.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T22:29:57.206Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T22:29:57.206Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6070d7132590b3213877e323"
+  },
+  "paramId": "605dd321dca5e31990c3b8af",
+  "titre": "Cabane dans le sud de la sud de la France",
+  "prix": 499,
+  "temps": "Semaine",
+  "picture": "./uploads/params/6070d7132590b3213877e323.jpg",
+  "createdAt": {
+    "$date": "2021-04-09T22:37:07.338Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-09T23:34:16.765Z"
+  },
+  "__v": 0
+}]
